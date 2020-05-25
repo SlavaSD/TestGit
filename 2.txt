@@ -1,1 +1,1 @@
-Hello!
+Hello! Text added to second file!
