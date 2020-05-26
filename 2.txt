@@ -1,1 +1,3 @@
 Hello! Text added to second file!
+
+New line of somthing has been added.
